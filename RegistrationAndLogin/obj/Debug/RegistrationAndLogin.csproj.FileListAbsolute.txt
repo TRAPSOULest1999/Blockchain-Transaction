@@ -1,0 +1,15 @@
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.AssemblyReference.cache
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\bin\Debug\Database.mdf
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\bin\Debug\Database_log.ldf
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+C:\Users\neole\OneDrive\Documents\University of Pretoria\BSc Computer Sciences Honours\2023\COS720\0 - Project\Concept\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Homepage.resources

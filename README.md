@@ -1,5 +1,5 @@
 # Blockchain-Transaction
-A System which uses Zero-knowledge Proofs for Authentication and Authorisation
+A System which uses Zero-knowledge Proofs for Authentication and Authorisation of digital payments
 
 # How System Works
 ...
